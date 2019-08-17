@@ -3,11 +3,16 @@ layout: page
 title: About Me
 ---
 
+### Currently
+
+
+
+I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and a 🐕 named Crosby. I really like to 🚴‍♀️, 🏊‍♂️, and eat at great fast casual restaurants.
 
 
 ![Duff Road: Dead End](/assets/duff-road.jpg)
 
-##### Food I love
+##### 🍽️ Food I love
 
 - 🥑
 - 🌮
@@ -25,7 +30,8 @@ title: About Me
 - [_Ordinary People_](https://www.youtube.com/watch?v=6fWdT0qa6Ic) by John Legend
 - [_How Will I Know_](https://www.youtube.com/watch?v=kwHACITShSI) by Sam Smith (Whitney cover)
 - [_Be Quiet and Drive_](https://www.youtube.com/watch?v=kr_ufdkuQPM) by Deftones
-- []() by
+- [_In The Aeroplane Over The Sea](https://www.youtube.com/watch?v=wqMZv1DN1Gc) by Neutral Milk Hotel (the lyrics are so good)
+- [_No One's Gonna Love You_](https://www.youtube.com/watch?v=KoQy_p3vNb8) by Band Of Horses
 
 ##### 📕 Influential books from my life
 
