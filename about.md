@@ -5,12 +5,19 @@ title: About Me
 
 ### Currently
 
-
+<img src="/assets/picture-of-me.jpg" alt="Matthew Duff" width="600"/>
 
 I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and a 🐕 named Crosby. I really like to 🚴‍♀️, 🏊‍♂️, and eat at great fast casual restaurants.
 
+I work at [GitHub](https://github.com) as the Director of Professional Services Delivery. I worked at [MX](https://mx.com) before that.
 
-![Duff Road: Dead End](/assets/duff-road.jpg)
+### What childhood colors this perspective?
+
+I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a town of poverty, without much precedence or hope for a way out. There were many incredible people in the town, but the area could really trap people. I've lived in the Rocky Mountain Region since graduating high school.
+
+<img src="/assets/duff-road.jpg" alt="Dead End" width="600"/>
+
+
 
 ##### 🍽️ Food I love
 
