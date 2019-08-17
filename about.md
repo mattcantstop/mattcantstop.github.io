@@ -11,13 +11,19 @@ I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.inst
 
 I work at [GitHub](https://github.com) as the Director of Professional Services Delivery. I worked at [MX](https://mx.com) before that.
 
+My largest interests outside of work are:
+
+- deliberate eating (trying to get better at this)
+- better transportation options and bicycling
+- house design
+
 ### What childhood colors this perspective?
 
 I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a town of poverty, without much precedence or hope for a way out. There were many incredible people in the town, but the area could really trap people. I've lived in the Rocky Mountain Region since graduating high school.
 
 <img src="/assets/duff-road.jpg" alt="Dead End" width="600"/>
 
-
+### Some lists
 
 ##### 🍽️ Food I love
 
@@ -37,7 +43,7 @@ I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Mas
 - [_Ordinary People_](https://www.youtube.com/watch?v=6fWdT0qa6Ic) by John Legend
 - [_How Will I Know_](https://www.youtube.com/watch?v=kwHACITShSI) by Sam Smith (Whitney cover)
 - [_Be Quiet and Drive_](https://www.youtube.com/watch?v=kr_ufdkuQPM) by Deftones
-- [_In The Aeroplane Over The Sea](https://www.youtube.com/watch?v=wqMZv1DN1Gc) by Neutral Milk Hotel (the lyrics are so good)
+- [_In The Aeroplane Over The Sea_](https://www.youtube.com/watch?v=wqMZv1DN1Gc) by Neutral Milk Hotel (the lyrics are so good)
 - [_No One's Gonna Love You_](https://www.youtube.com/watch?v=KoQy_p3vNb8) by Band Of Horses
 
 ##### 📕 Influential books from my life
