@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="https://matthewduff.com/atom.xml" rel="self"/>
- <link href="https://matthewduff.com/"/>
- <updated>2019-08-18T09:32:00-06:00</updated>
- <id>https://matthewduff.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-05-05T08:47:42-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Renewed Focus</title>
-   <link href="https://matthewduff.com/2019/08/17/renewed-focus/"/>
+   <link href="http://localhost:4000/2019/08/17/renewed-focus/"/>
    <updated>2019-08-17T00:00:00-06:00</updated>
-   <id>https://matthewduff.com/2019/08/17/renewed-focus</id>
+   <id>http://localhost:4000/2019/08/17/renewed-focus</id>
    <content type="html">&lt;h3 id=&quot;writing-has-serious-benefits&quot;&gt;Writing has serious benefits&lt;/h3&gt;
 
 &lt;p&gt;Other than in my day job, I don’t write much. I wrote all the time in college. I also participated heavily in social networks from about 2006 - 2018. I wrote often, put my opinions out on the internet, and as a result of feedback changed many views I had. Sharing my thoughts in the forum of public opinion, and hearing &lt;em&gt;really good&lt;/em&gt; rebuttals to my views, changed me for the better.&lt;/p&gt;

@@ -7,15 +7,15 @@ title: About Me
 
 <img src="/assets/picture-of-me.jpg" alt="Matthew Duff" width="600"/>
 
-I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and a 🐕 named Crosby. I really like to 🚴‍♀️, 🏊‍♂️, and eat at great fast casual restaurants.
+I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and two pups. I really like to 🚴‍♀️, 🏊‍♂️, and play 🏀. I love eating at great fast casual restaurants.
 
-I work at [GitHub](https://github.com) as the Director of Professional Services Delivery. I worked at [MX](https://mx.com) before that.
+I work at [GitHub](https://github.com) as the Director of Communities of Practice and Advanced Security in the Professional Services department. I worked at [MX](https://mx.com) before that.
 
 My largest interests outside of work are:
 
 - deliberate eating (trying to get better at this)
-- better transportation options and bicycling
-- house design
+- **Liveable cities:** Primarily focused on better transportation options, removing zoning restrictions, and make more walkable/bikeable cities. Check out my [Twitter account for better Littleton streets](https://www.twitter.com/littleton4bikes)
+- **House design:** Check out my [Youtube channel about building a Passive House](https://www.youtube.com/channel/UCD1rs6e3tx6r2dd1QWfiN2g)
 
 ### What childhood colors this perspective?
 
@@ -51,6 +51,6 @@ I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Mas
 - [_Happy City: Transforming Our Lives Through Urban Design_](https://www.amazon.com/Happy-City-Transforming-Through-Design/dp/0374534888) by Charles Montgomery
 - [_Last Report on the Miracles at Little No Horse_](https://www.amazon.com/Last-Report-Miracles-Little-Horse/dp/0061577626) by Louise Erdrich
 - [_The Road_](https://www.amazon.com/Road-Cormac-McCarthy/dp/0307387895) by Cormac McCarthy
-- [_The Power of Habit_](https://www.amazon.com/Power-Habit-Business-Library/dp/B01FRYI0H8) by Charles Duhigg
+- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
 - [_You Are Not So Smart_](https://www.amazon.com/You-Are-Not-So-Smart/dp/1592407366/) by David McRaney
 - [_Sapiens: A Brief History of Humankind_](https://www.amazon.com/Sapiens-Brief-History-Humankind/dp/B07TTKLNHQ) by Yuval Noah Harari
