@@ -13,9 +13,9 @@ I work at [GitHub](https://github.com) as the Director of Communities of Practic
 
 My largest interests outside of work are:
 
-- deliberate eating (trying to get better at this)
+- **Health and fitness:** I am trying to consistently work out, do long sessions of cardio, and eat healthy foods in reasonable portions. I have varying levels of success with this. 
 - **Liveable cities:** Primarily focused on better transportation options, removing zoning restrictions, and make more walkable/bikeable cities. Check out my [Twitter account for better Littleton streets](https://www.twitter.com/littleton4bikes)
-- **House design:** Check out my [Youtube channel about building a Passive House](https://www.youtube.com/channel/UCD1rs6e3tx6r2dd1QWfiN2g)
+- **Building better buildings:** Check out my [Youtube channel about building a Passive House](https://www.youtube.com/channel/UCD1rs6e3tx6r2dd1QWfiN2g)
 
 ### What childhood colors this perspective?
 

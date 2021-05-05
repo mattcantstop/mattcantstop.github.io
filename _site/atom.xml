@@ -4,13 +4,26 @@
  <title>Matthew Duff</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-05-05T08:47:42-06:00</updated>
+ <updated>2021-05-05T14:46:02-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Wealth inequality: There will always be differences. Let's create a floor, and maybe a ceiling.</title>
+   <link href="http://localhost:4000/2021/05/05/wealth-inequality/"/>
+   <updated>2021-05-05T14:46:01-06:00</updated>
+   <id>http://localhost:4000/2021/05/05/wealth-inequality</id>
+   <content type="html">&lt;h3 id=&quot;some-text-to-test&quot;&gt;Some text to test&lt;/h3&gt;
+
+&lt;p&gt;Here is some text&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/human-scale-street.jpg&quot; alt=&quot;Human scale street&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>Renewed Focus</title>
