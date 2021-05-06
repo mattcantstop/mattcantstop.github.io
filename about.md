@@ -17,11 +17,13 @@ My largest interests outside of work are:
 - **Liveable cities:** Primarily focused on better transportation options, removing zoning restrictions, and make more walkable/bikeable cities. Check out my [Twitter account for better Littleton streets](https://www.twitter.com/littleton4bikes)
 - **Building better buildings:** Check out my [Youtube channel about building a Passive House](https://www.youtube.com/channel/UCD1rs6e3tx6r2dd1QWfiN2g)
 
-### What childhood colors this perspective?
+### From whence you came? 
 
-I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a town of poverty, without much precedence or hope for a way out. There were many incredible people in the town, but the area could really trap people. I've lived in the Rocky Mountain Region since graduating high school.
+I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a small town with some great people.
 
 <img src="/assets/duff-road.jpg" alt="Dead End" width="600"/>
+
+I'ved lived all over the western United States. 
 
 ### Some lists
 
