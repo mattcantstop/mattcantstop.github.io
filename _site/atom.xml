@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="https://matthewduff.com/atom.xml" rel="self"/>
- <link href="https://matthewduff.com/"/>
- <updated>2021-05-18T22:43:56-06:00</updated>
- <id>https://matthewduff.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-05-19T08:01:24-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Broken things and mending people</title>
-   <link href="https://matthewduff.com/2021/05/18/broken-things-and-mending-people/"/>
+   <link href="http://localhost:4000/2021/05/18/broken-things-and-mending-people/"/>
    <updated>2021-05-18T00:00:00-06:00</updated>
-   <id>https://matthewduff.com/2021/05/18/broken-things-and-mending-people</id>
+   <id>http://localhost:4000/2021/05/18/broken-things-and-mending-people</id>
    <content type="html">&lt;h3 id=&quot;we-are-all-broken&quot;&gt;We are all broken&lt;/h3&gt;
 
 &lt;h3 id=&quot;many-of-our-institutions-are-broken&quot;&gt;Many of our institutions are broken&lt;/h3&gt;
