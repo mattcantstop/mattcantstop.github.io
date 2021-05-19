@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="https://matthewduff.com/atom.xml" rel="self"/>
- <link href="https://matthewduff.com/"/>
- <updated>2021-05-18T22:43:56-06:00</updated>
- <id>https://matthewduff.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-05-18T23:08:39-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -14,14 +14,55 @@
  
  <entry>
    <title>Broken things and mending people</title>
-   <link href="https://matthewduff.com/2021/05/18/broken-things-and-mending-people/"/>
+   <link href="http://localhost:4000/2021/05/18/broken-things-and-mending-people/"/>
    <updated>2021-05-18T00:00:00-06:00</updated>
-   <id>https://matthewduff.com/2021/05/18/broken-things-and-mending-people</id>
+   <id>http://localhost:4000/2021/05/18/broken-things-and-mending-people</id>
    <content type="html">&lt;h3 id=&quot;we-are-all-broken&quot;&gt;We are all broken&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Optimism, how do we get better. Fundamental to this outlook is that things can get better. But how?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;All people are broken, to varying degrees. Some of us are broken in really obvious ways. Almost anyone who comes into contact with us can see our broken edges. Sometimes it seems the main apparatus is broken. Something is fundamentally wrong.&lt;/p&gt;
+
+&lt;p&gt;For others we are broken under the surface. We seem to be firing on all cylinders, but underneath we have dark places or some wiring that is quite connected right.&lt;/p&gt;
+
+&lt;p&gt;We all know some people who seem, on the surface, to be whole. To have very few broken parts. I do believe there are some people like this. They are still broken in some ways, but overall they are thriving. They had loving, supportive parents who nurtured them. Or they have unusually high levels of honesty with themselves where they can recongize their broken parts.&lt;/p&gt;
+
+&lt;h5 id=&quot;we-dont-acknowledge-our-broken-parts&quot;&gt;We don’t acknowledge our broken parts&lt;/h5&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Homelessness:&lt;/strong&gt; People often request that cities clean up homeless camps. What exactly should we do with these broken (like us, just differently!) people? No, seriously, what is the solution?&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gun violence:&lt;/strong&gt; It feels like it is open season on humans in the United States. Our children feel unsafe in schools. We are desensitized to violence to the point where if we hear about a mass shooting we often forget about it in a day or two. How do we help the broken people in our lives who feel the need to harm others? There are no easy answers. But right now it seems like we are simply not even trying.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Some people are not capable of having a career:&lt;/strong&gt; It is difficult to keep our employment. Our jobs are demanding. We don’t acknowledge that a subset of the people in our society are incapable of employment. Some of these people even seem high functioning on the outside. Should these people live in poverty? Some people in this category had broken parents, and their parents didn’t teach them how to thrive in society. We never addressed the issues when they were young, and now we have adults who cannot thrive in our economy. This will happen, statistically, at a non-insignificant rate. Do we let these people barely survive on inadequate stipends? What is the right answer here?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&quot;our-societal-ills-expose-our-individual-broken-parts&quot;&gt;Our societal ills expose our individual broken parts&lt;/h5&gt;
+
+&lt;p&gt;Overall, our problems in society result from our individual broken pieces. Often these are swept under the rug. Or we try to put far too much emphasis on individual responsibility while ignoring societal issues. Our solutions likely focus on the individual, but there are systemic things that make sad individual outcomes more likely.&lt;/p&gt;
+
+&lt;p&gt;Some ways we are broken:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Insecurity and living for others&lt;/li&gt;
+  &lt;li&gt;Patterns of poor emotional intelligence passed on through generations&lt;/li&gt;
+  &lt;li&gt;A lack of precedence for some people in seeing high functioning people to model their life after&lt;/li&gt;
+  &lt;li&gt;A lack of mentors and people to guide younger generations&lt;/li&gt;
+  &lt;li&gt;Unaligned expectations and lives&lt;/li&gt;
+  &lt;li&gt;An inability to focus on what is most important&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h3 id=&quot;many-of-our-institutions-are-broken&quot;&gt;Many of our institutions are broken&lt;/h3&gt;
 
 &lt;h3 id=&quot;how-do-we-mend-our-broken-things&quot;&gt;How do we mend our broken things?&lt;/h3&gt;
+
+&lt;h3 id=&quot;what-do-we-optimize-for&quot;&gt;What do we optimize for?&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;living standard&lt;/li&gt;
+  &lt;li&gt;empathy?&lt;/li&gt;
+  &lt;li&gt;Letting some suffer while others thrive?&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
