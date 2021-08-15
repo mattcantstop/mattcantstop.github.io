@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2021-05-19T08:01:24-06:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://matthewduff.com/atom.xml" rel="self"/>
+ <link href="https://matthewduff.com/"/>
+ <updated>2021-08-15T09:37:42-06:00</updated>
+ <id>https://matthewduff.com</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -13,15 +13,74 @@
 
  
  <entry>
-   <title>Broken things and mending people</title>
-   <link href="http://localhost:4000/2021/05/18/broken-things-and-mending-people/"/>
-   <updated>2021-05-18T00:00:00-06:00</updated>
-   <id>http://localhost:4000/2021/05/18/broken-things-and-mending-people</id>
-   <content type="html">&lt;h3 id=&quot;we-are-all-broken&quot;&gt;We are all broken&lt;/h3&gt;
+   <title>Starting weekly reflection posts about entrepreneurial journey</title>
+   <link href="https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey/"/>
+   <updated>2021-08-15T00:00:00-06:00</updated>
+   <id>https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey</id>
+   <content type="html">&lt;h3 id=&quot;early-career-and-struggling-to-find-time&quot;&gt;Early career and struggling to find time&lt;/h3&gt;
 
-&lt;h3 id=&quot;many-of-our-institutions-are-broken&quot;&gt;Many of our institutions are broken&lt;/h3&gt;
+&lt;p&gt;Ten years ago I attended a coding bootcamp. I was part of the first cohort of the first ever coding bootcamp. I joined this coding bootcamp to build an entrepreneurial idea I had been working on with a friend. After attending the bootcamp I wasn’t skilled enough to build the business I was intending to work on. I joined &lt;a href=&quot;mx.com&quot;&gt;MX&lt;/a&gt; to improve my skills. I was a terrible engineer when I joined. I didn’t know enough to thrive in the role I found myself in. To overcome this skill gap me and another coworker at MX started building a side hustle site where I could practice my skills and provide value to someone else. This was fun, rewarding, and I learned a ton.&lt;/p&gt;
 
-&lt;h3 id=&quot;how-do-we-mend-our-broken-things&quot;&gt;How do we mend our broken things?&lt;/h3&gt;
+&lt;p&gt;Three years after joining MX I ended up moving to &lt;a href=&quot;github.com&quot;&gt;GitHub&lt;/a&gt; to help build out their Professional Services organization. It was the opportunity of a lifetime for me. I loved the people, the company, and the role. However, it was a very demanding role and my entrepreneurial efforts were put on hold. At GitHub I was making enough money where it made sense to give it all of my professional focus, leaving little time for any work on the side. This was the dyanmic for about five years at GitHub, but the entrepreneurial ideas were always coming up.&lt;/p&gt;
+
+&lt;h3 id=&quot;now-is-a-great-time-to-build&quot;&gt;Now is a great time to build&lt;/h3&gt;
+
+&lt;p&gt;Things have changed. I led GitHub’s Professional Services Delivery organization for a few years, building it to around 50 team members and many different teams. I loved this work, but it was taking a toll on me. Each year the team about doubled, and with it new stresses and weight gain! I realized I needed to make some changes. The financial box had largely been checked off for my family as a result of &lt;a href=&quot;https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/&quot;&gt;GitHub’s acquisition by Microsoft&lt;/a&gt;. My oldest child is in high school now and I realized that while trying to accomplish things in my career I was going to miss some of our best years together if I didn’t stop and take stock on my goals in life. I want to be a more present father who isn’t stressed as often.&lt;/p&gt;
+
+&lt;p&gt;About 1.5 years ago I asked to be moved to a new role at GitHub that is more sustainable in terms of demands. After a bit more stress being responsible for two teams I have landed up in a healthy place. I feel less stress in my current role and believe I can provide great value to the company during normal working hours. I’ve been inspired to dust off my entrepreneurial efforts now and focus on two things primarily:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Building a small scale software company slowly through dedicated effort over years&lt;/li&gt;
+  &lt;li&gt;Building a few Airbnbs for vacation rentals to provide for most of my money needs and create experiences for others&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I will be updating this blog each week, taking stock of my goals and of my physical fitness. These three things, overall, should increase my quality of life, scratch my itch for self-improvement, and help me accomplish some of my remaining financial goals.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A few things to note:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;I am terrible at shipping when I don’t feel the product is perfect. This has been a large hurdle in me moving forward any goal. These blog posts are a way for me to overcome this fear, including the writing of this post itself!&lt;/li&gt;
+  &lt;li&gt;I want to enable others to follow along. I have a group of friends that meet up weekly on Sunday mornings to discuss life and encourage each other. I want this blog to create community in a similar way. I have loved reading the updates from &lt;a href=&quot;https://mtlynch.io&quot;&gt;Michael Lynch&lt;/a&gt; and &lt;a href=&quot;https://lunchbag.ca&quot;&gt;Jen from Lunch Money&lt;/a&gt; over the years. I find the “slowly build a company over time by making improvements for users each week” to be such a romantic idea. And I love the idea of small scale business who scratch a simple itch for their customers and get a bit of money in return.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My planned structure:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;### Progress I made this week: 
+
+- **Spoonme.kitchen**:
+- **Airbnb initiative**:
+- **Fitness**: 
+
+### Goals for next week: 
+
+- **Spoonme.kitchen**:
+- **Airbnb initiative**:
+- **Fitness**:
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;So, in that 👆 spirit, here are my goals for this upcoming week:&lt;/p&gt;
+
+&lt;h3 id=&quot;goals-for-next-week&quot;&gt;Goals for next week:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Spoonme.kitchen&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Do mock up of &lt;em&gt;very minimally viable&lt;/em&gt; first iteration of the app&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Airbnb initiative&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Determine where I want to buy (Maine or Colorado)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fitness&lt;/strong&gt;:
+    &lt;ul&gt;
+      &lt;li&gt;Do my &lt;a href=&quot;https://www.integrityattitudehustle.com/shop/p/single-kettlebell-circuit-program&quot;&gt;newly purchased exercise program&lt;/a&gt; four days this week&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Talk to you all next week!&lt;/p&gt;
 </content>
  </entry>
  
