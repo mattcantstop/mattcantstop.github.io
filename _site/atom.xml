@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="https://matthewduff.com/atom.xml" rel="self"/>
- <link href="https://matthewduff.com/"/>
- <updated>2021-08-15T09:37:42-06:00</updated>
- <id>https://matthewduff.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-08-15T10:05:40-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Starting weekly reflection posts about entrepreneurial journey</title>
-   <link href="https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey/"/>
+   <link href="http://localhost:4000/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey/"/>
    <updated>2021-08-15T00:00:00-06:00</updated>
-   <id>https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey</id>
+   <id>http://localhost:4000/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey</id>
    <content type="html">&lt;h3 id=&quot;early-career-and-struggling-to-find-time&quot;&gt;Early career and struggling to find time&lt;/h3&gt;
 
 &lt;p&gt;Ten years ago I attended a coding bootcamp. I was part of the first cohort of the first ever coding bootcamp. I joined this coding bootcamp to build an entrepreneurial idea I had been working on with a friend. After attending the bootcamp I wasn’t skilled enough to build the business I was intending to work on. I joined &lt;a href=&quot;mx.com&quot;&gt;MX&lt;/a&gt; to improve my skills. I was a terrible engineer when I joined. I didn’t know enough to thrive in the role I found myself in. To overcome this skill gap me and another coworker at MX started building a side hustle site where I could practice my skills and provide value to someone else. This was fun, rewarding, and I learned a ton.&lt;/p&gt;
