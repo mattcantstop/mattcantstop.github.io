@@ -9,7 +9,7 @@ title: About Me
 
 I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and two pups. I really like to 🚴‍♀️, 🏊‍♂️, and play 🏀. I love eating at great fast casual restaurants.
 
-I work at [GitHub](https://github.com) as the Director of Communities of Practice and Advanced Security in the Professional Services department. I worked at [MX](https://mx.com) before that.
+I work at [LaunchDarkly](https://launchdarkly.com) leading the Professional Services organization. Previously I worked at [GitHub](https://github.com) as the Director of Delivery and the Director of Communities of Practice and Advanced Security in the Professional Services department. I worked at [MX](https://mx.com) before that doing Implementations and such with banking customers.
 
 My largest interests outside of work are:
 
@@ -19,11 +19,11 @@ My largest interests outside of work are:
 
 ### From whence you came? 
 
-I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a small town with some great people.
+I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Massachusetts when I was starting kindergarten. We lived on a dead end road that we made through the woods, Duff Road. It was a small town with some great people. I am the first male in my family to finish high school and the first to graduate from a university. 
 
 <img src="/assets/duff-road.jpg" alt="Dead End" width="600"/>
 
-I'ved lived all over the western United States. 
+Since graduating high school I'ved lived all over the western United States. The west is home for me now. 
 
 ### Some lists
 
