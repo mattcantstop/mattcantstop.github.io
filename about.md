@@ -9,7 +9,7 @@ title: About Me
 
 I live in Denver, CO. I am married to the imitable [Kylee Duff](https://www.instagram.com/kyleeduff). We have four children and two pups. I really like to 🚴‍♀️, 🏊‍♂️, and play 🏀. I love eating at great fast casual restaurants.
 
-I work at [LaunchDarkly](https://launchdarkly.com) leading the Professional Services organization. Previously I worked at [GitHub](https://github.com) as the Director of Delivery and the Director of Communities of Practice and Advanced Security in the Professional Services department. I worked at [MX](https://mx.com) before that doing Implementations and such with banking customers.
+I stopped working for larger tech companies in order to make a few small bets. I want to build a more calm life for me and my family. I previously worked at [LaunchDarkly](https://launchdarkly.com) leading the Professional Services organization. Before that I worked at [GitHub](https://github.com) as the Director of Delivery and the Director of Communities of Practice and Advanced Security in the Professional Services department. I worked at [MX](https://mx.com) before that doing Implementations and such with banking customers.
 
 My largest interests outside of work are:
 
@@ -23,7 +23,7 @@ I grew up in rural Poland Spring, Maine. Our family moved there from Boston, Mas
 
 <img src="/assets/duff-road.jpg" alt="Dead End" width="600"/>
 
-Since graduating high school I'ved lived all over the western United States. The west is home for me now. 
+Since graduating high school I'ved lived all over the western United States. The west is home for me now.
 
 ### Some lists
 
@@ -53,6 +53,6 @@ Since graduating high school I'ved lived all over the western United States. The
 - [_Happy City: Transforming Our Lives Through Urban Design_](https://www.amazon.com/Happy-City-Transforming-Through-Design/dp/0374534888) by Charles Montgomery
 - [_Last Report on the Miracles at Little No Horse_](https://www.amazon.com/Last-Report-Miracles-Little-Horse/dp/0061577626) by Louise Erdrich
 - [_The Road_](https://www.amazon.com/Road-Cormac-McCarthy/dp/0307387895) by Cormac McCarthy
-- [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
+- [_Atomic Habits_](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
 - [_You Are Not So Smart_](https://www.amazon.com/You-Are-Not-So-Smart/dp/1592407366/) by David McRaney
 - [_Sapiens: A Brief History of Humankind_](https://www.amazon.com/Sapiens-Brief-History-Humankind/dp/B07TTKLNHQ) by Yuval Noah Harari

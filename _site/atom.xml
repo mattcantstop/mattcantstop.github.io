@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Matthew Duff</title>
- <link href="https://matthewduff.com/atom.xml" rel="self"/>
- <link href="https://matthewduff.com/"/>
- <updated>2022-01-30T08:52:53-07:00</updated>
- <id>https://matthewduff.com</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2023-07-08T13:33:41-06:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
    <email></email>
@@ -13,145 +13,89 @@
 
  
  <entry>
-   <title>January 30 2022 Weekly Reflection - Exploring my curiosity, incorporated business, and an almost usable SwiftUI app</title>
-   <link href="https://matthewduff.com/2022/01/30/January-30-20022-weekly-reflection/"/>
-   <updated>2022-01-30T00:00:00-07:00</updated>
-   <id>https://matthewduff.com/2022/01/30/January-30-20022-weekly-reflection</id>
-   <content type="html">&lt;h2 id=&quot;entrepreneurial-pursuits-early-in-my-career&quot;&gt;Entrepreneurial pursuits early in my career&lt;/h2&gt;
+   <title></title>
+   <link href="http://localhost:4000/2023/07/08/2023-07-08-hiring-an-elixir-or-ruby-developer-for-spoonme-exploring-an-idea-together/"/>
+   <updated>2023-07-08T13:33:41-06:00</updated>
+   <id>http://localhost:4000/2023/07/08/2023-07-08-hiring-an-elixir-or-ruby-developer-for-spoonme-exploring-an-idea-together</id>
+   <content type="html">&lt;h2 id=&quot;hiring-a-part-time-elixir-or-ruby-developer-going-on-a-journey-together-to-build-something-people-love&quot;&gt;Hiring a part time Elixir or Ruby developer: Going on a journey together to build something people love&lt;/h2&gt;
 
-&lt;p&gt;My first job was at &lt;a href=&quot;https://mx.com&quot;&gt;MX&lt;/a&gt; after graduating from a coding bootcamp. I was there from 2012-2015. I started a small website for a paying customer while I was there. It was very fun. I was a horrible programmer and I got to code on this side project with two friends/coworkers. We added a lot of value to our customer and I learned a lot while doing it. We were incredibly entrepreneurial and after moving on from the previously mentioned website we had shiny object syndrome and kept doing false starts on a lot of businesses.&lt;/p&gt;
+&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt;
 
-&lt;p&gt;Ten years later we all work at different places, but we all still meet at 7am on Sunday morning to discuss our entrepreneurial pursuits (and life). We have all had incredible growth in our full-time employment and career growing. But we have not moved the needle, at all, on entrepreneurial pursuits. This was becoming a large source of shame in my life. It caused me significant stress to want to be entrepreneurial but to continually fail at getting started. My full-time employment takes most of my mental reserves and when I finished a day of work I had little motivation to go start a business. The financial lure of starting a business had faded as well. With GitHub’s acquisition in 2018 I have largely checked off the financial checkbox. I have enough of a nest egg now that I don’t need to actively save for retirement (but I still do!). My current comfortable financial life, and the lack of mental reserves after a day’s work in my full-time employment, left me feeling like I couldn’t make progress.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About me:&lt;/strong&gt; I’ve worked in tech companies for about 11 years now. At MX.com, GitHub, and most recently LaunchDarkly. I’ve decided I want to make some #smallbets and start my own company. I believe we can make a product that brings people joy and helps them achieve their goals.&lt;/p&gt;
 
-&lt;p&gt;Between leaving GitHub at the end of December and joining &lt;a href=&quot;https://launchdarkly.com&quot;&gt;LaunchDarkly&lt;/a&gt; a few weeks later (highly recommend taking a few weeks off between if you can!) I thought a lot about what I wanted to do. I realized that I spent hours per day scrolling on my phone. The &lt;a href=&quot;https://www.investopedia.com/terms/m/marginalutility.asp&quot;&gt;marginal utility&lt;/a&gt; I get from the first half hour of checking social media messages and seeing what is happening with friends and family is decent. But the third hour of doing that has almost negative marginal utility. I tried to capture the different between creating something and the tiny dopamine hits of scrolling here&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The opportunity:&lt;/strong&gt; A contracting role for up to $100/hour, up to 20 hours per week, located anywhere in the world.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/scrolling.png&quot; alt=&quot;Scrolling vs creating&quot; width=&quot;600&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;what-will-we-be-building&quot;&gt;What will we be building?&lt;/h3&gt;
 
-&lt;h3 id=&quot;exploring-my-curiosity-no-more-pressure-to-start-a-business&quot;&gt;Exploring my curiosity: No more pressure to start a business&lt;/h3&gt;
+&lt;p&gt;I want to build a competitor to MyFitnessPal and similar applications. The app will be called Spoonme.kitchen. This is primarily to scratch my own itch, but I am optimistic we can build something compelling enough that it provides other people value and creates a small business. The vast majority of our time is going to be focused on building. We will try to keep meetings to an absolute minimum. We are going to cap the amount of time we spend on building to 20 hours per week. Work usually expands to fit the size allotted to it. By limiting the amount of time we can spend each week it’ll force us to focus, say “no” to some worthy goals, and ensure we are only doing the essential. I am in need of a strong Elixir or Ruby developer to work with me on this project. This project should be viewed as a creative journey.&lt;/p&gt;
 
-&lt;p&gt;I decided I would stop scrolling, and stop trying to make a business, and just pursue my curiosity. I enjoy building things. I like figuring out interfaces and gaining a new skill. I had a ton of ideas that I wanted to explore out of curiosity without the need for them to become a full-fledged business. I decided I would build an app, learn SwiftUI and Swift better, and explore my curiosity around challenging myself to be more deliberate with my time and attention. I have been building for about a month and it’s been going well. I’ve made progress. I have been programming for about an hour per day starting at about 6:30am. Just in that small amount of time I have made decent progress. Working in the morning helps because I haven’t used up my mental reserves for focus at that point. I am enjoying learning and building. It has made building fun again, instead of so much pressure to start a side hustle.&lt;/p&gt;
-
-&lt;p&gt;If you are struggling in a similar way to how I’ve been struggling with the pressure to start a side hustle, I recommend making the focus on exploring your curiosity and not creating a side hustle. The change in just the mental model of how I am thinking of it was really helpful for me. It freed me to do something for fun instead of having to second guess myself on if this idea was the most lucrative or most likely to succeed. I am doing now for the enjoyment of building. Maybe something comes out of it?&lt;/p&gt;
-
-&lt;h3 id=&quot;progress-i-made-this-week&quot;&gt;Progress I made this week:&lt;/h3&gt;
+&lt;h3 id=&quot;preferred-qualifications&quot;&gt;Preferred qualifications&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;PeakStreak:&lt;/strong&gt; No longer doing Spoonme.kitchen. I wanted to explore challenging myself to live more deliberately. This is the app I’ve been exploring my curiosity with. Progress I’ve made this past week:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Incorporated a company 😬:&lt;/em&gt; I am getting close to sharing my app with friends and family. I wanted to upload it to the App Store and decided to incorporate the business. I did this through &lt;a href=&quot;https://stripe.com/atlas&quot;&gt;Stripe Atlas&lt;/a&gt; and it was a pleasant experience. Now that I have a Tax ID number I will set up my developer account to distribute it. I know this is different than my “don’t put pressure on yourself to start a business” statement from before. But this feels organic and not forced. I am doing this to keep things clean with the Apple App Store as well.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;List challenges:&lt;/em&gt; I made the page to list all challenges. The design is meh, but the functionality works.&lt;/li&gt;
-      &lt;li&gt;&lt;em&gt;Create activities against challenges:&lt;/em&gt; I am almost done this. Just need to associate the activity with the challenge which should just be a few lines of code and then I’ll be able to use this to track my activity against the challenges I’ve set for myself.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Airbnb initiative&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;&lt;em&gt;Finding land:&lt;/em&gt; Kylee (my wife) is looking for properties for us to buy in the mountains of Colorado. We are going to build some yurts and have camping spots on the lot. I have set aside about $100,000 for the purchase of the land and about $75,000 for the building of some camp sites and a yurt or two. We are excited about this. She is going to be point person on this project. She does not work outside of our home (we have four kids!) and she has some capacity to move this forward. Hopefully buying land in the next month or two. If I make enough money from this to pay for my mortgage I’ll consider that a huge win. We considered paying off our house, but figured if we could just spend $175,000 of that money and make enough to cover the mortgage with Airbnbs, why wouldn’t we do that instead? Our home was appraised at $980,000 and we owe about $540,000 with a ~$2,700/month mortgage. We should be able to cover the $2,700/month with these Airbnbs, especially if we have no debt with them. I’ll update you all and let you know how it’s going as we make progress.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fitness&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;The app that I am making is an attempt to help me with this. It will incentivize me to complete the challenges I’ve created for myself.&lt;/li&gt;
-      &lt;li&gt;Other than that, I’ve lifted weights about two times per week for the past couple of weeks. I want lifting to be four times a week (strength really increases quality of life and longevity). I’ve been going on walks with the dogs and such.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;Strong Elixir or Ruby experience&lt;/li&gt;
+  &lt;li&gt;Famliarity with CI/CD and an ability to use GitHub proficiently&lt;/li&gt;
+  &lt;li&gt;An ability to deploy and maintain the site&lt;/li&gt;
+  &lt;li&gt;Enough knowledge about Tailwind CSS where you can wire things up to make them look decent, until we hire a designer (would hire after we’ve proven the general value and data model/functionality)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;goals-for-next-week&quot;&gt;Goals for next week:&lt;/h3&gt;
+&lt;p&gt;If you meet some of the qualifications above, but not all of them, but believe you can add signficant value, please reach out.&lt;/p&gt;
+
+&lt;h3 id=&quot;compensation&quot;&gt;Compensation&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;PeakStreak&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Finish activity tracking&lt;/li&gt;
-      &lt;li&gt;Fix unresponsive touch when dismissing a DetailView in SwiftUI. I think I know how to do it, but need to try a couple approaches&lt;/li&gt;
-      &lt;li&gt;Enable image uploads in activity tracking&lt;/li&gt;
-      &lt;li&gt;Issue stock in C-Corp (part of incorporation)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Airbnb initiative&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Get together a list of properties to purchase&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fitness&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Lift weights four times this week&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
+  &lt;li&gt;$100/hour&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Thanks for joining. I am trying to just write and not worry much about editing and such. I often don’t write anything because I am afraid of writing something bad. I need to just get it out and worry less. If you’d like to see any specific improvements, don’t hesitate to reach out.&lt;/p&gt;
+&lt;h3 id=&quot;how-we-will-work-together&quot;&gt;How we will work together&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Constraints:&lt;/strong&gt; I believe constraints are generally very good. The more we narrow what we are trying to accomplish the faster we can move there. We will work together for at most 20 hours per week, paid hourly. This constraint will force us to focus on the most essential tasks at hand. We will need to ruthlessly prioritize. This first iteration of the application will be six weeks long of contract work. We will see what we can build in six weeks’ time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Few meetings:&lt;/strong&gt; We will meet together weekly where you will demo the work you have done for the week. We will walk through the choices that were made, hurdles encountered, and the decisions for what the next iteration of the application should focus on the following week. These will provide you a chance to highlight the great work you have done and provide us an opportunity to brainstorm on direction. Of course, these sessions will be paid. I will be available if any questions arise for us to sync, or answer any questions in Pull Requests, or GitHub issues, as they arise.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;An emphasis on shipping early and often:&lt;/strong&gt; My goal is to get this application in people’s hands as quickly as possible so we can focus on improving the product. Feedback from users will be some of our most valuable direction. Ideally I will be using the application within the first week or two, warts and all. We will try to create an efficient and thoughtful machine of feedback and iteration to create a tool that people love and consider an essential tool to live the life they love.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Respect for time:&lt;/strong&gt; There will be clear expectations of how we work together. No late night texts. We will be driven by making our creative vision a reality, but we will move this objective forward in a calm, deliberate manner. People overestimate what they can do in the short term, but dramatically underestimate what they can do in the long term. I want to build something incredibly great in the long term and believe that can be done in a calm, thoughtful manner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A focus on outcomes:&lt;/strong&gt; We will use an hourly pay rate as it’s a simple way to work together before we have built high levels of trust. However, your performance will primarily be evaluated based on results and outcomes.&lt;/p&gt;
+
+&lt;h3 id=&quot;interview-process&quot;&gt;Interview process:&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Phase one:&lt;/strong&gt; Submit an email to (matt at peakstreak dot co) outlining
+    &lt;ul&gt;
+      &lt;li&gt;Your experience with Elixir/Phoenix or Ruby/Rails (keep in mind I value honesty and transparency) with examples illustrating, as best you can, what you are capable of&lt;/li&gt;
+      &lt;li&gt;How you work best and the environment you do your best work in&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phase two:&lt;/strong&gt; I will go through applications and find four candidates who have stood out and have made me feel like there is considerably reduced risk on my part by hiring them because of their demonstrated ability and the hope that we could work well together&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phase three:&lt;/strong&gt; I will reach out to four of those applicants to quickly discuss moving forward (hopefully 10 - 15 minutes). I’ll grant each of those four applicants access to a repository to submit a pull request fixing one bug and adding some standard CRUD functionality into the existing application. This will be paid for work, paying $500 for the submission of the pull request (at a reasonable level of “done”) that satisfies the requirements of the functionality/bug fix. We will discuss the code changes synchronously in a 30 minute meeting and review the pull request.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phase four:&lt;/strong&gt; I will select one of the four candidates to move forward based on their submission and our contracting agreement will begin.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;A note about diversity:&lt;/strong&gt; I’d like to hire someone for this role who provides a different perspective than me. I believe diversity of thought and experience makes for creating better tools. Candidates from other countries (who people in the United States are legally allowed to work with) are welcomed to apply. The compensation will be the same regardless of where you reside in the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A note to recruiters:&lt;/strong&gt; Please do not reach out to me about this opportunity. I want to work closely with one person, with as little overhead as possible. I do not want to work with your agency, regardless of how great you are or how much of a deal you can provide. In the early stages of a company overhead is death. I want to keep overhead as low as possible to extend runway as long as possible.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Starting weekly reflection posts about entrepreneurial journey</title>
-   <link href="https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey/"/>
-   <updated>2021-08-15T00:00:00-06:00</updated>
-   <id>https://matthewduff.com/2021/08/15/starting-weekly-reflection-posts-about-entrepreneurial-journey</id>
-   <content type="html">&lt;h3 id=&quot;early-career-and-struggling-to-find-time&quot;&gt;Early career and struggling to find time&lt;/h3&gt;
+   <title>I admire companies who tell us who they are</title>
+   <link href="http://localhost:4000/2023/03/25/I-admire-companies-who-tell-us-who-they-are/"/>
+   <updated>2023-03-25T00:00:00-06:00</updated>
+   <id>http://localhost:4000/2023/03/25/I-admire-companies-who-tell-us-who-they-are</id>
+   <content type="html">&lt;h3 id=&quot;an-unpopular-stance-but-lots-of-clarity&quot;&gt;An unpopular stance, but lots of clarity&lt;/h3&gt;
 
-&lt;p&gt;Ten years ago I attended a coding bootcamp. I was part of the first cohort of the first ever coding bootcamp. I joined this coding bootcamp to build an entrepreneurial idea I had been working on with a friend. After attending the bootcamp I wasn’t skilled enough to build the business I was intending to work on. I joined &lt;a href=&quot;https://www.mx.com&quot;&gt;MX&lt;/a&gt; to improve my skills. I was a terrible engineer when I joined. I didn’t know enough to thrive in the role I found myself in. To overcome this skill gap me and another coworker at MX started building a side hustle site where I could practice my skills and provide value to someone else. This was fun, rewarding, and I learned a ton.&lt;/p&gt;
+&lt;p&gt;At GitHub years ago, like clockwork, team members would ask the question during our Company All Hands about the contract with ICE (Immigration and Customs Enforcement). The company would often give equivocating answers in the early days of the discussion. Microsoft later released a statement about how they handle military contracts (they don’t turn them down). But the questions kept coming.&lt;/p&gt;
 
-&lt;p&gt;Three years after joining MX I ended up moving to &lt;a href=&quot;https://github.com&quot;&gt;GitHub&lt;/a&gt; to help build out their Professional Services organization. It was the opportunity of a lifetime for me. I loved the people, the company, and the role. However, it was a very demanding role and my entrepreneurial efforts were put on hold. At GitHub I was making enough money where it made sense to give it all of my professional focus, leaving little time for any work on the side. This was the dyanmic for about five years at GitHub, but the entrepreneurial ideas were always coming up.&lt;/p&gt;
+&lt;p&gt;Then one day the leader of GitHub answered the question something to the effect of “look, we are doing this contract, per our stated policy. It’s not changing. If you don’t like that, maybe GitHub isn’t the right place for you.” That is certainly not a direct quote, but it was the overall gist of the statement. It was a great moment because it made things much more clear. Regardless of which side of the discussion you leaned towards, you had clarity on what the future looked like and who GitHub was.&lt;/p&gt;
 
-&lt;h3 id=&quot;now-is-a-great-time-to-build&quot;&gt;Now is a great time to build&lt;/h3&gt;
+&lt;p&gt;I love when companies tell us who they are. Coinbase and 37signals made public declarations about who they are and what working there would be like. Regardless of whether or not I agreed with their “no politics” stance, I loved that they were telling people, explicitly, what they were about, regardless of the blowback.&lt;/p&gt;
 
-&lt;p&gt;Things have changed. I led GitHub’s Professional Services Delivery organization for a few years, building it to around 50 team members and many different teams. I loved this work, but it was taking a toll on me. Each year the team about doubled, and with it new stresses and weight gain! I realized I needed to make some changes. The financial box had largely been checked off for my family as a result of &lt;a href=&quot;https://news.microsoft.com/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/&quot;&gt;GitHub’s acquisition by Microsoft&lt;/a&gt;. My oldest child is in high school now and I realized that while trying to accomplish things in my career I was going to miss some of our best years together if I didn’t stop and take stock on my goals in life. I want to be a more present father who isn’t stressed as often.&lt;/p&gt;
+&lt;h3 id=&quot;people-want-clarity-even-at-the-expense-of-alignment&quot;&gt;People want clarity, even at the expense of alignment&lt;/h3&gt;
 
-&lt;p&gt;About 1.5 years ago I asked to be moved to a new role at GitHub that is more sustainable in terms of demands. After a bit more stress being responsible for two teams I have landed up in a healthy place. I feel less stress in my current role and believe I can provide great value to the company during normal working hours. I’ve been inspired to dust off my entrepreneurial efforts now and focus on two things primarily:&lt;/p&gt;
+&lt;p&gt;People want clarity. Your teams want clarity. Providing that clarity is better for everyone. It’s better for the people who realize the company may not be a good fit for them any longer. It’s good for the people who stay who no longer have to deal with ambiguity, or hear the same questions repeated because the answers are not clear and direct. It galvanizes the future direction of the company. Of course the decision may not be the correct one. That’s a different topic. But it sets a clear path in a clear direction.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Building a small scale software company slowly through dedicated effort over years&lt;/li&gt;
-  &lt;li&gt;Building a few Airbnbs for vacation rentals to provide for most of my money needs and create experiences for others&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;I will be updating this blog each week, taking stock of my goals and of my physical fitness. These three things, overall, should increase my quality of life, scratch my itch for self-improvement, and help me accomplish some of my remaining financial goals.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;A few things to note:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;I am terrible at shipping when I don’t feel the product is perfect. This has been a large hurdle in me moving forward any goal. These blog posts are a way for me to overcome this fear, including the writing of this post itself!&lt;/li&gt;
-  &lt;li&gt;I want to enable others to follow along. I have a group of friends that meet up weekly on Sunday mornings to discuss life and encourage each other. I want this blog to create community in a similar way. I have loved reading the updates from &lt;a href=&quot;https://mtlynch.io&quot;&gt;Michael Lynch&lt;/a&gt; and &lt;a href=&quot;https://lunchbag.ca&quot;&gt;Jen from Lunch Money&lt;/a&gt; over the years. I find the “slowly build a company over time by making improvements for users each week” to be such a romantic idea. And I love the idea of small scale business who scratch a simple itch for their customers and get a bit of money in return.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;My planned structure:&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;### Progress I made this week: 
-
-- **Spoonme.kitchen**:
-- **Airbnb initiative**:
-- **Fitness**: 
-
-### Goals for next week: 
-
-- **Spoonme.kitchen**:
-- **Airbnb initiative**:
-- **Fitness**:
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;So, in that 👆 spirit, here are my goals for this upcoming week:&lt;/p&gt;
-
-&lt;h3 id=&quot;goals-for-next-week&quot;&gt;Goals for next week:&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;Spoonme.kitchen&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Do mock up of &lt;em&gt;very minimally viable&lt;/em&gt; first iteration of the app&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Airbnb initiative&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Determine where I want to buy (Maine or Colorado)&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Fitness&lt;/strong&gt;:
-    &lt;ul&gt;
-      &lt;li&gt;Do my &lt;a href=&quot;https://www.integrityattitudehustle.com/shop/p/single-kettlebell-circuit-program&quot;&gt;newly purchased exercise program&lt;/a&gt; four days this week&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Talk to you all next week!&lt;/p&gt;
+&lt;p&gt;While if those companies made the right decision is up for debate for many, my purpose is to primarily praise companies who have a clear, communicated vision. I admire that about the companies mentioned earlier. They told us who they were, and gave people the clarity to choose if that was something that brought them to the company, or pulled them away. Many companies try to walk the tightrope. I think that is the worst place to be. Having clarity is priceless.&lt;/p&gt;
 </content>
  </entry>
  
