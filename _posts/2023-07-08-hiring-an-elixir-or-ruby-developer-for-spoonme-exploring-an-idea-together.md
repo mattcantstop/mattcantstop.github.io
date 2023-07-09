@@ -2,7 +2,7 @@
 layout: post
 title: "Hiring a part time Elixir or Ruby developer: Going on a journey together to build something people love using"
 date: 2023-07-08
-description: "I want to pay someone to work to explore an idea with me. Do you want to spend 15 - 20 hours per week building something exceptional through iteration? 
+description: "I want to pay someone to work to explore an idea with me. Do you want to spend 15 - 20 hours per week building something exceptional through iteration?"
 ---
 
 ## Hiring a part time Elixir or Ruby developer: Going on a journey together to build something people love
