@@ -7,6 +7,8 @@ description: "I want to pay someone to work to explore an idea with me. Do you w
 
 ## Hiring a part time Elixir or Ruby developer: Going on a journey together to build something people love
 
+`UPDATE:` On Tuesday, Aug 1st I am going to select a final four candidates who will be sent the coding challenge. I will try to reach out to every person who has applied by that time and let them know either way. I received more applicants than anticipated, but will find the time to respond to each person (who is not an agency). 
+
 ## TL;DR
 
 **About me:** I've worked in tech companies for about 11 years now. At MX.com, GitHub, and most recently LaunchDarkly. I've decided I want to make some #smallbets and start my own company. I believe we can make a product that brings people joy and helps them achieve their goals.
