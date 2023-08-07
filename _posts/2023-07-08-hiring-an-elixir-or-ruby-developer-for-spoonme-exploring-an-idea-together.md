@@ -7,7 +7,7 @@ description: "I want to pay someone to work to explore an idea with me. Do you w
 
 ## Hiring a part time Elixir or Ruby developer: Going on a journey together to build something people love
 
-`UPDATE:` On Tuesday, Aug 1st I am going to select a final four candidates who will be sent the coding challenge. I will try to reach out to every person who has applied by that time and let them know either way. I received more applicants than anticipated, but will find the time to respond to each person (who is not an agency). 
+`UPDATE:` NO LONGER ACCEPTING APPLICANTS: I have moved forward with four different candidates at this point into the final stage. I am no longer accepting applicants. Thanks for everyone who expressed interest. I am trying to let everyone know who submitted an application about the decision, if it's to move forward to the next phase or if I went a different direction. Thanks for the time and effort you put into applying.
 
 ## TL;DR
 
