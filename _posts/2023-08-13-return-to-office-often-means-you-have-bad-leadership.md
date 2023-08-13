@@ -3,6 +3,7 @@ layout: post
 title: "Return to the office mandate? You just may be a bad leader. How to drive results and have your employees do their best work"
 date: 2023-08-13
 description: "Many companies are asking for a return to the office. Leaders who require this often are bad at leading. Provide flexibility while still making sure your company achieves your goals"
+image: /assets/pixar-remote-work-version-2.png
 ---
 
 # Requiring presence is often bad management
