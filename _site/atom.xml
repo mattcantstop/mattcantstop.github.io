@@ -4,7 +4,7 @@
  <title>Matthew Duff</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-08-13T10:59:51-06:00</updated>
+ <updated>2023-08-13T11:45:22-06:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Matthew Duff</name>
@@ -18,6 +18,10 @@
    <updated>2023-08-13T00:00:00-06:00</updated>
    <id>http://localhost:4000/2023/08/13/return-to-office-often-means-you-have-bad-leadership</id>
    <content type="html">&lt;h1 id=&quot;requiring-presence-is-often-bad-management&quot;&gt;Requiring presence is often bad management&lt;/h1&gt;
+
+&lt;div class=&quot;centered-image&quot;&gt;
+        &lt;img src=&quot;/assets/pixar-remote-work-version-2.png&quot; alt=&quot;Pixar style manager image looking over shoulder of employee&quot; /&gt;
+&lt;/div&gt;
 
 &lt;h3 id=&quot;but-first-a-disclaimer&quot;&gt;But first, a disclaimer&lt;/h3&gt;
 

@@ -7,6 +7,10 @@ description: "Many companies are asking for a return to the office. Leaders who 
 
 # Requiring presence is often bad management
 
+<div class="centered-image">
+        <img src="/assets/pixar-remote-work-version-2.png" alt="Pixar style manager image looking over shoulder of employee">
+</div>
+
 ### But first, a disclaimer
 
 I once heard a [wise man](https://www.linkedin.com/in/nathanhenderson/) say "there are no solutions, there are only tradeoffs." I believe that deeply. Almost nothing is universally true. I want to start off this post with some nuance. There are certainly businesses, industries, and moments in a company's evolution, where _presence_ and working together is highly beneficial. All movements go too far, and if the people who promote remote work can't acknowledge that there are exceptions, they've entered into cult territory and are not thinking rationally. GitHub was a remote company but we knew that sometimes people needed to gather in a room, around a whiteboard, for brainstorming or doing work in a tightened timeline. In person work _can be_ critical for creative stages in the early part of a project's life. Similarly, it can be rational, in a companies early days, for founders to want people together to move quickly. What I am going to say next is moving past that nuance and focusing on knowledge workers in most companies. Brace yourself for the some strong opinions! 
