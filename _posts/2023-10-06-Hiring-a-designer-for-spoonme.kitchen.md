@@ -12,6 +12,8 @@ image: /assets/spoonme-logo.png
 
 ### TLDR: Spoonme is hiring a design to help us make the most focused and polished food tracking app on the market
 
+`NOTE: ` This position has been filled. I received over 600 applications for this. The site that I posted it on was scraped by many other job boards. I removed the posting from the original board I posted it on, but am unable to update the many places that scraped it. Thanks for all the interest! There were far more qualified people who applied than we had space for. 
+
 Here are the high level details: 
 
 - Up to 25 hours per week
