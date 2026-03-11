@@ -1,0 +1,82 @@
+---
+layout: null
+sitemap: false
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Games</title>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+  background: #0d0d1a;
+  color: #fff;
+  font-family: 'Courier New', monospace;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 60px 20px;
+}
+h1 {
+  font-size: 14px;
+  letter-spacing: 6px;
+  color: rgba(255,255,255,0.3);
+  margin-bottom: 48px;
+  text-transform: uppercase;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 24px;
+  max-width: 700px;
+  width: 100%;
+}
+.tile {
+  background: rgba(255,255,255,0.04);
+  border: 1px solid rgba(255,255,255,0.08);
+  border-radius: 10px;
+  padding: 32px 24px;
+  text-decoration: none;
+  color: #fff;
+  transition: background 0.2s, border-color 0.2s, transform 0.15s;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.tile:hover {
+  background: rgba(255,255,255,0.08);
+  border-color: rgba(255,255,255,0.2);
+  transform: translateY(-2px);
+}
+.tile-icon {
+  font-size: 40px;
+  line-height: 1;
+}
+.tile-name {
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.tile-sub {
+  font-size: 10px;
+  color: rgba(255,255,255,0.35);
+  letter-spacing: 2px;
+}
+</style>
+</head>
+<body>
+<h1>Games</h1>
+<div class="grid">
+  <a href="tetris/" class="tile">
+    <div class="tile-icon">&#x25E3;&#x25E2;</div>
+    <div class="tile-name">TETRIS</div>
+    <div class="tile-sub">CLASSIC ARCADE</div>
+  </a>
+</div>
+</body>
+</html>
