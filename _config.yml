@@ -1,6 +1,8 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      true
+markdown:         kramdown
+highlighter:      rouge
+kramdown:
+  input:          GFM
 
 # Permalinks
 permalink:        pretty
@@ -16,6 +18,9 @@ author:
   url:            https://twitter.com/mattcantstop
 
 paginate:         5
+
+plugins:
+  - jekyll-paginate
 
 # Custom vars
 version:          2.0.0
