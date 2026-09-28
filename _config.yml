@@ -20,8 +20,8 @@ author:
 # Apps shown in the nav and on the home page. Set `live: false` to hide one.
 apps:
   - name:         Journal
-    url:          '#journal-link-needed'   # TODO: replace with the Journal app's real URL
-    description:  'My journaling app.'
+    url:          https://apps.apple.com/us/app/food-journal-spoonme/id6483933170
+    description:  'Food Journal: SpoonMe. A food diary for iPhone.'
     live:         true
   - name:         SpoonMe Recipes
     url:          ''
