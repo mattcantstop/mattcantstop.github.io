@@ -17,13 +17,32 @@ author:
   name:           'Matthew Duff'
   url:            https://twitter.com/mattcantstop
 
-paginate:         5
-
-plugins:
-  - jekyll-paginate
+# Apps shown in the nav and on the home page. Set `live: false` to hide one.
+apps:
+  - name:         Journal
+    url:          '#journal-link-needed'   # TODO: replace with the Journal app's real URL
+    description:  'My journaling app.'
+    live:         true
+  - name:         SpoonMe Recipes
+    url:          ''
+    description:  'Recipes, cooked and shared.'
+    live:         false
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/mattcantstop
+
+social:
+  github:         https://github.com/mattcantstop
+  bluesky:        https://bsky.app/profile/mattcantstop.bsky.social
+  x:              https://x.com/mattcantstop
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - vendor
+  - .tool-versions
