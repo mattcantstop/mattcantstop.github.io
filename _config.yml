@@ -17,13 +17,33 @@ author:
   name:           'Matthew Duff'
   url:            https://twitter.com/mattcantstop
 
-paginate:         5
-
-plugins:
-  - jekyll-paginate
+# Apps shown in the nav and on the home page. Set `live: false` to hide one.
+apps:
+  - name:         Journal
+    nav_label:    'Food Journal: SpoonMe. A food diary for iPhone'   # text on the nav button
+    url:          https://apps.apple.com/us/app/food-journal-spoonme/id6483933170
+    description:  'Food Journal: SpoonMe. A food diary for iPhone.'
+    live:         true
+  - name:         SpoonMe Recipes
+    url:          ''
+    description:  'Recipes, cooked and shared.'
+    live:         false
 
 # Custom vars
 version:          2.0.0
 
 github:
   repo:           https://github.com/mattcantstop
+
+social:
+  github:         https://github.com/mattcantstop
+  bluesky:        https://bsky.app/profile/mattcantstop.bsky.social
+  x:              https://x.com/mattcantstop
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - vendor
+  - .tool-versions
