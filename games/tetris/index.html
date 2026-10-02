@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex, nofollow">
-<title>TETRIS</title>
+<title>BLOCKER</title>
 <style>
 * { margin: 0; padding: 0; box-sizing: border-box; }
 body {
@@ -107,7 +107,7 @@ body {
 #username-input:focus { border-color: rgba(255,255,255,0.5); background: rgba(255,255,255,0.1); }
 #username-input::placeholder { color: rgba(255,255,255,0.18); letter-spacing: 2px; font-size: 13px; }
 /* Leaderboard */
-.lb-wrap { width: 272px; margin: 6px 0 14px; }
+.lb-wrap { width: 320px; margin: 6px 0 14px; }
 .lb-header { display: flex; font-size: 9px; letter-spacing: 2px; color: rgba(255,255,255,0.25); padding: 0 6px 4px; border-bottom: 1px solid rgba(255,255,255,0.07); margin-bottom: 3px; }
 .lb-header .lb-name { flex: 1; }
 .lb-row { display: flex; align-items: center; gap: 0; padding: 3px 6px; border-radius: 3px; font-size: 11px; letter-spacing: 0.5px; }
@@ -118,6 +118,7 @@ body {
 .lb-row.lb-silver { color: #c0c0c0; }
 .lb-row.lb-bronze { color: #cd7f32; }
 .lb-name { flex: 1; text-transform: uppercase; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; padding-right: 8px; }
+.lb-lines { min-width: 40px; text-align: right; color: rgba(255,255,255,0.4); font-size: 10px; padding-right: 8px; }
 .lb-score { font-weight: bold; min-width: 68px; text-align: right; }
 .lb-divider { text-align: center; color: rgba(255,255,255,0.18); font-size: 9px; letter-spacing: 4px; padding: 2px 0; }
 .controls-box { font-size: 10px; color: rgba(255,255,255,0.28); line-height: 2; }
@@ -142,9 +143,17 @@ body {
 }
 #mute-btn:hover { background: rgba(255,255,255,0.1); color: #fff; }
 #mute-btn.muted { background: rgba(255,80,80,0.12); border-color: rgba(255,80,80,0.3); color: #ff6b6b; }
+.back-link {
+  position: fixed; top: 16px; left: 20px;
+  color: rgba(255,255,255,0.35); text-decoration: none;
+  font-size: 11px; letter-spacing: 2px;
+  transition: color 0.15s;
+}
+.back-link:hover { color: rgba(255,255,255,0.7); }
 </style>
 </head>
 <body>
+<a href="../" class="back-link">&larr; GAMES</a>
 <div class="game-container">
   <!-- Left panel -->
   <div class="panel">
@@ -175,7 +184,7 @@ body {
   <div class="board-wrapper">
     <canvas id="game-canvas" width="300" height="600"></canvas>
     <div class="overlay" id="overlay">
-      <h1>TETRIS</h1>
+      <h1>BLOCKER</h1>
       <div class="sub">CLASSIC ARCADE</div>
       <div class="name-wrap">
         <div class="name-label">YOUR NAME</div>
@@ -332,13 +341,14 @@ function buildLeaderboard(currentRank) {
   const top10 = allScores.slice(0, 10);
   const rankClass = r => r === 1 ? 'lb-gold' : r === 2 ? 'lb-silver' : r === 3 ? 'lb-bronze' : '';
   let html = '<div class="lb-wrap">';
-  html += '<div class="lb-header"><span class="lb-rank">#</span><span class="lb-name">NAME</span><span class="lb-score">SCORE</span></div>';
+  html += '<div class="lb-header"><span class="lb-rank">#</span><span class="lb-name">NAME</span><span class="lb-lines">LINES</span><span class="lb-score">SCORE</span></div>';
   top10.forEach((s, i) => {
     const r = i + 1;
     const cur = r === currentRank;
     html += `<div class="lb-row ${cur ? 'lb-current' : rankClass(r)}">
       <span class="lb-rank">${r}</span>
       <span class="lb-name">${s.name}</span>
+      <span class="lb-lines">${s.lines || 0}</span>
       <span class="lb-score">${s.score.toLocaleString()}</span>
     </div>`;
   });
@@ -348,6 +358,7 @@ function buildLeaderboard(currentRank) {
     html += `<div class="lb-row lb-current">
       <span class="lb-rank">${currentRank}</span>
       <span class="lb-name">${s.name}</span>
+      <span class="lb-lines">${s.lines || 0}</span>
       <span class="lb-score">${s.score.toLocaleString()}</span>
     </div>`;
   }
@@ -493,14 +504,14 @@ function tryRotate(cw) {
     if (valid(newMatrix, cur.x + kx, cur.y - ky)) {
       cur.x += kx; cur.y -= ky;
       cur.matrix = newMatrix; cur.rot = newRot;
-      sfx.rotate(); resetLock(); return;
+      sfx.rotate(); return;
     }
   }
 }
 
 function moveH(dx) {
   if (valid(cur.matrix, cur.x + dx, cur.y)) {
-    cur.x += dx; sfx.move(); resetLock();
+    cur.x += dx; sfx.move();
   }
 }
 
@@ -839,7 +850,7 @@ function loop(ts) {
 
   if (grounded) {
     lockTimer += dt;
-    if (lockTimer >= 500) lockPiece();
+    if (lockTimer >= 100) lockPiece();
   } else {
     // reset lock if piece lifted (shouldn't happen but safety)
   }
