@@ -26,7 +26,7 @@ apps:
     live:         true
   - name:         SpoonMe Recipes
     url:          ''
-    description:  'Recipes, cooked and shared.'
+    description:  'Recipes, save and store forever.'
     live:         false
 
 # Custom vars
